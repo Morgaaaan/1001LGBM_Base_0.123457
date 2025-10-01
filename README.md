@@ -49,11 +49,11 @@ python training.py `
 ```
 輸出內容：<br>
 
--`output/lgbm_v1/model.pkl` — 訓練後模型
+- `output/lgbm_v1/model.pkl` — 訓練後模型
 
--`output/lgbm_v1/training_curve.csv` — 驗證集學習曲線 (CSV)
+- `output/lgbm_v1/training_curve.csv` — 驗證集學習曲線 (CSV)
 
--`output/lgbm_v1/training_curve.png` — 驗證集學習曲線 (圖表)
+- `output/lgbm_v1/training_curve.png` — 驗證集學習曲線 (圖表)
 
 終端會印出：<br>
 
