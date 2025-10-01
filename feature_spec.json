@@ -1,0 +1,39 @@
+{
+  "features": {
+    "numeric": [
+      "txn_count",
+      "total_amt_twd",
+      "avg_amt_twd",
+      "max_amt_twd",
+      "amt_twd_std",
+      "big_amt_count_twd",
+      "incoming_count",
+      "outgoing_count",
+      "incoming_amt_twd_sum",
+      "outgoing_amt_twd_sum",
+      "incoming_outgoing_ratio",
+      "hour_mean",
+      "night_ratio",
+      "interarrival_days_mean",
+      "interarrival_days_std",
+      "txn_count_7d",
+      "amt_twd_sum_7d",
+      "txn_count_30d",
+      "amt_twd_sum_30d",
+      "txn_count_90d",
+      "amt_twd_sum_90d",
+      "unique_channel",
+      "unique_counterparty",
+      "self_txn_ratio",
+      "ratio_twd",
+      "ratio_usd",
+      "ratio_other"
+    ],
+    "categorical": [
+      "channel_type_mode"
+    ]
+  },
+  "label": "label",
+  "id_cols": ["acct"],
+  "drop": []
+}

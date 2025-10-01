@@ -1,0 +1,24 @@
+{
+  "base_currency": "TWD",
+  "source": "Bank of Taiwan spot selling (即期賣出)",
+  "quoted_date_note": "See BOT page timestamp; keep train/infer using the same table.",
+  "rates": {
+    "TWD": { "unit": "per_1", "twd": 1 },
+
+    "USD": { "unit": "per_1", "twd": 30 },
+    "HKD": { "unit": "per_1", "twd": 3 },
+    "GBP": { "unit": "per_1", "twd": 41 },
+    "AUD": { "unit": "per_1", "twd": 20 },
+    "CAD": { "unit": "per_1", "twd": 22 },
+    "SGD": { "unit": "per_1", "twd": 23 },
+    "CHF": { "unit": "per_1", "twd": 38 },
+    "EUR": { "unit": "per_1", "twd": 36 },
+    "CNY": { "unit": "per_1", "twd": 4 },
+    "NZD": { "unit": "per_1", "twd": 17 },
+    "SEK": { "unit": "per_1", "twd": 3 },
+    "ZAR": { "unit": "per_1", "twd": 1 },
+
+    "JPY": { "unit": "per_100", "twd": 20 },
+    "THB": { "unit": "per_100", "twd": 96 }
+  }
+}
